@@ -79,3 +79,6 @@ TURN_TOKEN=your_cloudflare_turn_api_token
 ## 许可证
 
 本项目采用 [MIT License](LICENSE)。
+
+
+<!-- deploy: 2026-01-01 -->
